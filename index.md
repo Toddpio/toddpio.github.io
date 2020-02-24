@@ -1,1 +1,296 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="favicon.png" rel="shortcut icon">
+  <title>Todd Piotrowski : Product Designer</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/foundation.css">
+  <link rel="stylesheet" href="css/land.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700&display=swap" rel="stylesheet">
 
+<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+<!--Navigation Section-->  
+
+<nav class="top-bar topbar-responsive-bg">
+</nav>      
+    
+<div class="row small-up-1 medium-up-1 large-up-1">   
+<nav class="top-bar topbar-responsive">
+  <div class="top-bar-title">
+    <span data-responsive-toggle="topbar-responsive" data-hide-for="medium">
+      <button class="menu-icon" type="button" data-toggle="offcanvas-full-screen"></button>
+    </span> 
+    <a class="topbar-responsive-logo" href="index.html"><strong>Todd Piotrowski</strong></a>     
+  </div>
+    
+  <div id="topbar-responsive" class="topbar-responsive-links"> 
+    <div class="top-bar-right">
+      <ul class="menu simple vertical medium-horizontal">
+        <li><span class="current" >Work</span></li>
+		  <li>
+			  <span class="navdot">•</span>
+		  </li>
+		<li><a class="menucolor" href="about.html">About</a></li>
+		  <li>
+			  <span class="navdot">•</span>
+		  </li>
+		<li><a class="menucolor" href="mailto:todd_e_piotrowski@yahoo.com">Contact</a></li>
+      </ul>
+   </div>      
+  </div>    
+</nav>	
+</div>  
+    
+<br><br>
+
+<div class="animate fadeInDown zero">    
+<div class="row small-up-1 medium-up-3 large-up-3">	
+<hr>	
+</div>
+</div>   
+   
+<!-- Off-Screen Nav -->	
+
+<div id="offcanvas-full-screen" class="offcanvas-full-screen" data-off-canvas data-transition="overlap">
+  <div class="offcanvas-full-screen-inner">
+    <button class="offcanvas-full-screen-close" aria-label="Close menu" type="button" data-close>
+      <span aria-hidden="true">&times;</span>
+    </button>
+    <ul class="offcanvas-full-screen-menu">
+        <li><a href="index.html">Work</a></li>
+		<li><a href="about.html">About</a></li>
+		<li><a href="mailto:todd_e_piotrowski@yahoo.com">Contact</a></li>
+    </ul>
+  </div>
+</div>  
+
+	
+
+<!--Name-->
+    
+<div class="animate fadeInUp name">   
+
+ <div class="row column small-12 medium-12 large-12">
+	 <h2 class="bigname">Creative Director turned <span class="newname">Product Designer</span> with a passion for turning data into art and  making products that improve life for all.</h2>
+ </div>
+    
+</div> 
+
+    
+<!--Case Study 1-->
+  
+<div class="animate fadeInDown one">    
+    
+<div class="row small-up-1 medium-up-3 large-up-3">	
+<hr>	
+</div>    
+       
+
+<a href="billahlaw.html" id="parent"><div id="child" class="row">
+    <div class="row column small-12 medium-4 small-order-1 medium-order-1">
+        <div class="container-l">
+			<h2 class="cs-hl"><span class="smu"><span class="eye2">Case Study</span>&nbsp; 01</span></h2>
+		</div>
+	</div>
+    <div class="row column small-12 medium-6 small-order-1 medium-order-1">
+        <div class="container-c">
+            <p id="eyebrow" class="child-highlight">Billah Law Firm</p>
+            <h2 id="cs-section" class="parent-highlight">End-to-end responsive web design</h2>
+		</div>
+	</div>
+    <div class="row column small-12 medium-2 small-order-1 medium-order-1">
+        <div class="container-r">
+			<h2 id="cs-arrow" class="child-highlight">&#10140;</h2>
+		</div>
+	</div>
+</div></a>
+    	
+<br>
+ 
+</div>    
+    
+
+<!--Case Study 2-->
+
+<div class="animate fadeInDown two">    
+    
+<div class="row small-up-1 medium-up-3 large-up-3">	
+<hr>	
+</div>    
+       
+
+<a href="opdivo.html" id="parent"><div id="child" class="row">
+    <div class="row column small-12 medium-4 small-order-1 medium-order-1">
+        <div class="container-l">
+			<h2 class="cs-hl"><span class="smu"><span class="eye2">Case Study</span>&nbsp; 02</span></h2>
+		</div>
+	</div>
+    <div class="row column small-12 medium-6 small-order-1 medium-order-1">
+        <div class="container-c">
+            <p id="eyebrow" class="child-highlight">Bristol-Meyers Squibb</p>
+            <h2 id="cs-section" class="parent-highlight">Data visualization + mobile UI design</h2>
+		</div>
+	</div>
+    <div class="row column small-12 medium-2 small-order-1 medium-order-1">
+        <div class="container-r">
+			<h2 id="cs-arrow" class="child-highlight">&#10140;</h2>
+		</div>
+	</div>
+</div></a>
+    	
+<br> 
+
+</div>    
+    
+    
+<!--Case Study 3-->
+    
+<div class="animate fadeInDown three">   
+    
+<div class="row small-up-1 medium-up-3 large-up-3">	
+<hr>	
+</div>    
+       
+
+<a href="bioonc.html" id="parent"><div id="child" class="row">
+    <div class="row column small-12 medium-4 small-order-1 medium-order-1">
+        <div class="container-l">
+			<h2 class="cs-hl"><span class="smu"><span class="eye2">Case Study</span>&nbsp; 03</span></h2>
+		</div>
+	</div>
+    <div class="row column small-12 medium-6 small-order-1 medium-order-1">
+        <div class="container-c">
+            <p id="eyebrow" class="child-highlight">Genentech</p>
+            <h2 id="cs-section" class="parent-highlight">iPad app + Interactive wall display</h2>
+		</div>
+	</div>
+    <div class="row column small-12 medium-2 small-order-1 medium-order-1">
+        <div class="container-r">
+			<h2 id="cs-arrow" class="child-highlight">&#10140;</h2>
+		</div>
+	</div>
+</div></a>
+    	
+<br>
+
+<div class="row small-up-1 medium-up-3 large-up-3">	
+<hr>	
+</div>
+    
+</div>    
+    
+
+<!--Footer Section-->
+    
+<div class="animate fadeInDown four">     
+    
+<div class="row small-up-1 medium-up-1 large-up-1">
+    <a href="index.html" class="credit">Design + code by Todd Piotrowski</a>
+	<ul class="menu align-right">
+        <a class="button" href="archive.html">ARCHIVE</a>
+	</ul>
+</div>
+
+</div>
+    
+<br><br><br> 
+    
+
+<!-- Return to Top Arrow -->
+
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+
+	
+<!-- ICON NEEDS FONT AWESOME FOR CHEVRON UP ICON -->
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	
+	
+<!--Scripts-->
+<script src="js/vendor/jquery.js"></script>
+<script src="js/vendor/what-input.js"></script>
+<script src="js/vendor/foundation.min.js"></script>
+<script src="js/app.js"></script>
+
+
+	
+<!-- Nav BG -->		
+	
+<script>
+$(function() {
+  $(window).scroll(function() {
+    var winTop = $(window).scrollTop();
+    if (winTop >= 3) {
+      $("body").addClass("stickynav-wrapper");
+		$('.topbar-responsive-bg').addClass('show');
+    } else{
+		$('.topbar-responsive-bg').removeClass('show');
+		
+      $("body").removeClass("stickynav-wrapper");
+    }
+  });
+});
+</script>	
+
+
+	
+<!--NAV Bar Background Animation-->
+	
+<script>
+$(window).scroll(function() {
+// 3 = The point you would like to fade the nav in.//
+	if ($(window).scrollTop() > 3 ){
+ 	$('.topbar-responsive-bg').addClass('show');
+  } else {
+    $('.topbar-responsive-bg').removeClass('show');
+ 	};   	
+});
+</script>
+    
+    
+<!--NAV Links Color Change-->
+	
+<script>
+$(window).scroll(function() {
+// 3 = The point you would like to fade the nav in.//
+	if ($(window).scrollTop() > 3 ){
+ 	$('a').addClass('showa');
+  } else {
+    $('a').removeClass('showa');
+ 	};   	
+});
+</script>    
+  
+    
+
+<!--Arrow Up-->	
+<script>	
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn(200);    // Fade in the arrow
+    } else {
+        $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+    }
+});
+$('#return-to-top').click(function() {      // When arrow is clicked
+    $('body,html').animate({
+        scrollTop : 0                       // Scroll to top of body
+    }, 500);
+});	
+</script>
+
+	
+</body>
+</html>
