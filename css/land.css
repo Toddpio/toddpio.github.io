@@ -316,7 +316,7 @@ body.stickynav-wrapper {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.35em;
   font-weight: 700;
-  color: #828282;
+  color: #606060;
 }
 
 .topbar-responsive .topbar-responsive-logo:hover {
@@ -358,7 +358,7 @@ body.stickynav-wrapper {
 }
 
 .menucolor {
-    color: #fff;
+    color: #E8E8E8;
 }
 
 .showa {
@@ -706,13 +706,13 @@ body.stickynav-wrapper {
 	font-family: 'Montserrat', sans-serif;
 	font-size: .8em;
 	font-weight: 500;
-    color: #fff;
+    color: #E8E8E8;
 	letter-spacing: .05em;
 	text-transform: uppercase;
 	padding: 15px 35px;
     margin-top: -.8rem;
 	background-color: #0a0a0a;
-    border: 1px solid #fff;
+    border: 1px solid #E8E8E8;
         -moz-transition: all 0.1s ease;
 }
 
@@ -840,7 +840,7 @@ body.stickynav-wrapper {
   line-height: 1.25em;
   margin-top: 1rem;
   margin-bottom: 3rem;
-  color: #F5F5F5;
+  color:#606060;
 }
 
 @media screen and (max-width: 48em) {
@@ -911,7 +911,7 @@ body.stickynav-wrapper {
 	letter-spacing: -1px;
 	text-align: left;
   	line-height: 1.5em;
-	color: #F8F8F8;
+	color: 	#E0E0E0;
     margin-bottom: -0.15rem;
 }
 
@@ -989,7 +989,7 @@ body.stickynav-wrapper {
   letter-spacing: -.1px;
   text-transform: uppercase;
   vertical-align: text-top;
-  color: #F5F5F5;
+  color: 		#E0E0E0;
 }
 
 
